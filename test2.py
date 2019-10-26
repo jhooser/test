@@ -1,3 +1,3 @@
-Def format(number)
-    return "***"*number
-print(format(50))
+def format(num)
+     print("***" * num)
+format(50)
